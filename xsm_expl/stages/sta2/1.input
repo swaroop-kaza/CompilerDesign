@@ -1,0 +1,6 @@
+begin
+	read (swap);
+	read (swapo);
+	d=swap+2*swapo+swap+swapo;
+ 	write (swap+d);
+end;
